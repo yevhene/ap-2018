@@ -2,7 +2,7 @@
 
 ## Викладачі
 - Шемет Євген Олександрович (yevhene@vntu.edu.ua)
-- Гранік Михайло Олександрович (granik@vntu.edu.ua)
+- Гранік Михайло Олександрович (тимчасова адреса: Mykhailo.Granik@gmail.com)
 
 ## [Інструкції по реєстрації](docs/registration.md)
 
