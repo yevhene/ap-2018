@@ -5,7 +5,7 @@
 На початку рівня World 1-1 гри Super Mario Brothers компанії Nintendo, Маріо повинен перестрибнути через дві напів-піраміди блоків на його
 шляху до флагштоку. Знизу наведено скріншот.
 
-![Sorry, image not found](https://github.com/yevhene/ap-2018/blob/master/content/labs/resources/mario-hard.png)
+![Sorry, image not found](../resources/mario-hard.png)
 
 ### Специфікація
 

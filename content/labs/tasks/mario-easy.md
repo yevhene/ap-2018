@@ -5,7 +5,7 @@
 Вкінці рівня World 1-1 гри Super Mario Brothers компанії Nintendo, Маріо має піднятись на "напів-піраміду" з блоків перед тим, як
 стрибнути до фалгштоку (якщо він хчое максимізувати набрані очки). Знизу ви можете побачити скріншот з гри.
  
-![Sorry, image not found](https://github.com/yevhene/ap-2018/blob/master/content/labs/resources/mario-easy.png)
+![Sorry, image not found](../resources/mario-easy.png)
 
 ### Специфікація
 
