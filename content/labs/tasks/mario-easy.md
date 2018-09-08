@@ -1,4 +1,4 @@
-#### Mario easy
+# Mario easy
 
 ### Вступ
 
