@@ -6,3 +6,4 @@
 - [Середовище розробки (лабораторні роботи 1 - 8)](http://cs50.io)
 - [Сторінка з результатами подань та іншою інформацією](https://cs50.me)
 - [Довідник із C](https://reference.cs50.net/)
+- [Книга з C українською](http://programming.in.ua/programming/c-language/227-book-programming-c-kernighan.html)
