@@ -12,4 +12,10 @@
 - [Лабораторна робота №2 (Криптографія)](labs/2-crypto.md)
 - [Лабораторна робота №3 (Музика)](labs/3-music.md)
 
+# Код з практичних занять
+- [Rhombus (pset1)](practice/rhombus.с)
+- [Rounding (pset1)](practice/rounding.c)
+
 ## [Корисні посилання](docs/links.md)
+
+## [Корисні команди](docs/commands.md)

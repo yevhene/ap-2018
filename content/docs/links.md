@@ -6,3 +6,6 @@
 - [Середовище розробки (лабораторні роботи 1 - 8)](http://cs50.io)
 - [Сторінка з результатами подань та іншою інформацією](https://cs50.me)
 - [Довідник із C](https://reference.cs50.net/)
+- [Книга з C українською](http://programming.in.ua/programming/c-language/227-book-programming-c-kernighan.html)
+- [Завдання на PuzzleDay](https://www.dropbox.com/s/iaem1cmofsze6ey/CS50%20AP%202018%20Puzzle%20Day.pdf?dl=0)
+- [Відповіді до PuzzleDay](https://www.youtube.com/playlist?list=PLhQjrBD2T381YzBTd2yCdxyHAorwliQZ9)
