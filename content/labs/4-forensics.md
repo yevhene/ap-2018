@@ -14,15 +14,15 @@ cd ~/workspace/pset4/
 
 ### Завдання лабораторної роботи
 
-1. Розв'яжіть задачу Whodunit
+1. Розв'яжіть задачу [Whodunit](tasks/whodunit.md)
 
 2. Розв'яжіть будь-яку з задач двох:
 
-    * Resize (легша версія)
+    * [Resize (легша версія)](tasks/resize-less.md)
 
-    * Resize (складніша версія)
+    * [Resize (складніша версія)](tasks/resize-more.md)
 
-3. Розв'яжіть задачу Recover
+3. Розв'яжіть задачу [Recover](tasks/recover.md)
 
 ### Як відправляти задачі на перевірку
 
