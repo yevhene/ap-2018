@@ -16,6 +16,7 @@
 # Код з практичних занять
 - [Rhombus (pset1)](practice/rhombus.с)
 - [Rounding (pset1)](practice/rounding.c)
+- [Date cipher (pset2)](practice/date-cipher.c)
 
 ## [Корисні посилання](docs/links.md)
 
