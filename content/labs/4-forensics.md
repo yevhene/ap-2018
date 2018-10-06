@@ -40,11 +40,6 @@ cd ~/workspace/pset4/whodunit/
 submit50 cs50/2018/x/whodunit
 ```
 
-```bash
-cd ~/workspace/pset3/music/
-submit50 cs50/2018/x/music
-```
-
 4. Відправте одну з наступних задач (або обидві!):
 
 * Resize (легша версія)
