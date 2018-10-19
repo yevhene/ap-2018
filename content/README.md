@@ -19,6 +19,7 @@
 - [Rhombus (pset1)](practice/rhombus.с)
 - [Rounding (pset1)](practice/rounding.c)
 - [Date cipher (pset2)](practice/date-cipher.c)
+- [Crack demo (pset2)](practice/crack-demo.c)
 
 ## [Корисні посилання](docs/links.md)
 
