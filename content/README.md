@@ -21,6 +21,9 @@
 - [Date cipher (pset2)](practice/date-cipher.c)
 - [Crack demo (pset2)](practice/crack-demo.c)
 
+# Лекції
+- [Рекурсія та динамічне програмування](lectures/recursion-dp)
+
 ## [Корисні посилання](docs/links.md)
 
 ## [Корисні команди](docs/commands.md)
