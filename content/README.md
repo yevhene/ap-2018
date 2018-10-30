@@ -24,11 +24,11 @@
 # Лекції
 - Рекурсія та динамічне програмування
   - [Слайди](lectures/recursion-dp/lecture.pptx)
-  - Factorial(lectures/recursion-dp/factorial.c)
-  - Fibonacci slow(lectures/recursion-dp/fibonacci_slow.c)
-  - Fibonacci fast(lectures/recursion-dp/fibonacci_fast.c)
-  - Rod cutting(lectures/recursion-dp/rod_cutting.c)
-  - Edit distance(lectures/recursion-dp/edit_distance.c)
+  - [Factorial](lectures/recursion-dp/factorial.c)
+  - [Fibonacci slow](lectures/recursion-dp/fibonacci_slow.c)
+  - [Fibonacci fast](lectures/recursion-dp/fibonacci_fast.c)
+  - [Rod cutting](lectures/recursion-dp/rod_cutting.c)
+  - [Edit distance](lectures/recursion-dp/edit_distance.c)
 
 ## [Корисні посилання](docs/links.md)
 
