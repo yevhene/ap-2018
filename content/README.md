@@ -20,8 +20,8 @@
 - [Rounding (pset1)](practice/rounding.c)
 - [Date cipher (pset2)](practice/date-cipher.c)
 - [Crack demo (pset2)](practice/crack-demo.c)
-- [Resize template (pset4)](practice/resize-template)
-- [Recover template (pset4)](practice/recover-template)
+- [Resize template (pset4)](practice/resize-template.c)
+- [Recover template (pset4)](practice/recover-template.c)
 
 # Лекції
 - Рекурсія та динамічне програмування
