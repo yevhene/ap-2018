@@ -5,6 +5,7 @@
 - Гранік Михайло Олександрович (тимчасова адреса: Mykhailo.Granik@gmail.com)
 
 ## [Інструкції по реєстрації](docs/registration.md)
+## [Конкурс по задачі Speller!](docs/speller-contest.md)
 
 ## Лабораторні
 - [Лабораторна робота №0 (Робота зі Scratch)](labs/0-scratch.md)
