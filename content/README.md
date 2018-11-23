@@ -5,6 +5,7 @@
 - Гранік Михайло Олександрович (тимчасова адреса: Mykhailo.Granik@gmail.com)
 
 ## [Інструкції по реєстрації](docs/registration.md)
+## [Конкурс по задачі Speller!](docs/speller-contest.md)
 
 ## Лабораторні
 - [Лабораторна робота №0 (Робота зі Scratch)](labs/0-scratch.md)
@@ -21,6 +22,17 @@
 - [Rounding (pset1)](practice/rounding.c)
 - [Date cipher (pset2)](practice/date-cipher.c)
 - [Crack demo (pset2)](practice/crack-demo.c)
+- [Resize template (pset4)](practice/resize-template.c)
+- [Recover template (pset4)](practice/recover-template.c)
+
+# Лекції
+- Рекурсія та динамічне програмування
+  - [Слайди](lectures/recursion-dp/lecture.pptx)
+  - [Factorial](lectures/recursion-dp/factorial.c)
+  - [Fibonacci slow](lectures/recursion-dp/fibonacci_slow.c)
+  - [Fibonacci fast](lectures/recursion-dp/fibonacci_fast.c)
+  - [Rod cutting](lectures/recursion-dp/rod_cutting.c)
+  - [Edit distance](lectures/recursion-dp/edit_distance.c)
 
 ## [Корисні посилання](docs/links.md)
 
