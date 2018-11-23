@@ -1,4 +1,4 @@
-# Similarities
+# Фінанси C$50
 
 ![Web app similarities less](../resources/finance.png)
 
