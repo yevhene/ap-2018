@@ -14,7 +14,7 @@ cd ~/workspace/pset7/
 
 ### Завдання лабораторної роботи
 
-Розв'яжіть задачу [C$50 Finance](tasks/c$50-finance.md) у папці `pset7/finance/`
+Розв'яжіть задачу [C$50 Finance](tasks/cs50-finance.md) у папці `pset7/finance/`
 
 ### Підказки
 
