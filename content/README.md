@@ -22,8 +22,11 @@
 - [Rounding (pset1)](practice/rounding.c)
 - [Date cipher (pset2)](practice/date-cipher.c)
 - [Crack demo (pset2)](practice/crack-demo.c)
+- [Music demo (pset3)](practice/music-demo.c)
 - [Resize template (pset4)](practice/resize-template.c)
 - [Recover template (pset4)](practice/recover-template.c)
+- [Dictionary demo (pset5)](practice/dictionary-demo.c)
+- [Vigenere on python (pset6)](practice/vigenere.py)
 
 # Лекції
 - Рекурсія та динамічне програмування
